@@ -1,1 +1,2 @@
-# Projeto Dicionario de Mulheres Negras criado durante o Projeto da Programaria
+# Projeto Dicionario de Mulheres Negras 
+### Projeto criado durante o Projeto da Programaria
